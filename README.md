@@ -1,5 +1,5 @@
 # randomQuoteGenerator
-An html, css and javascript based simple random quote generator.
+A Random quote generator using JavaScript, HTML,CSS.
 
 <strong>Author:</strong>
 Sulabh Prasad (Sameer)
