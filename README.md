@@ -1,4 +1,4 @@
-# randomQuoteGenerator
+# RandomQuoteGenerator
 A Random Quote generator using JavaScript, HTML,CSS.
 
 <strong>Author:</strong>
